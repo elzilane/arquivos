@@ -1,0 +1,329 @@
+@charset "utf-8";
+
+.excel1 {
+padding-top:1px;
+padding-right:1px;
+padding-left:1px;
+color:black;
+font-size:11.0pt;
+font-weight:400;
+font-style:normal;
+text-decoration:none;
+font-family:Calibri, sans-serif;
+text-align:general;
+vertical-align:bottom;
+border:none;
+white-space:nowrap;
+}
+.excel16 {
+padding-top:1px;
+padding-right:1px;
+padding-left:1px;
+color:#FA7D00;
+font-size:12.0pt;
+font-weight:400;
+font-style:normal;
+text-decoration:none;
+font-family:"Open Sans Semibold", sans-serif;
+text-align:left;
+vertical-align:middle;
+border:none;
+white-space:nowrap;
+background:#F2F2F2;
+}
+.excel4 {
+padding-top:1px;
+padding-right:1px;
+padding-left:1px;
+color:black;
+font-size:11.0pt;
+font-weight:400;
+font-style:normal;
+text-decoration:none;
+font-family:Calibri, sans-serif;
+text-align:general;
+vertical-align:bottom;
+border:none;
+white-space:nowrap;
+background:#E2EFDA;
+}
+.excel8 {
+padding-top:1px;
+padding-right:1px;
+padding-left:1px;
+color:black;
+font-size:11.0pt;
+font-weight:400;
+font-style:normal;
+text-decoration:none;
+font-family:"Open Sans", sans-serif;
+text-align:general;
+vertical-align:bottom;
+border:none;
+white-space:nowrap;
+background:#E2EFDA;
+}
+.excel19 {
+padding-top:1px;
+padding-right:1px;
+padding-left:1px;
+color:#9C5700;
+font-size:11.0pt;
+font-weight:400;
+font-style:normal;
+text-decoration:none;
+font-family:Calibri, sans-serif;
+text-align:center;
+vertical-align:bottom;
+border:.5pt solid #7F7F7F;
+white-space:nowrap;
+background:#FFEB9C;
+}
+.excel20 {
+padding-top:1px;
+padding-right:1px;
+padding-left:1px;
+color:#006100;
+font-size:11.0pt;
+font-weight:400;
+font-style:normal;
+text-decoration:none;
+font-family:Calibri, sans-serif;
+text-align:center;
+vertical-align:bottom;
+border:.5pt solid #7F7F7F;
+white-space:nowrap;
+background:#C6EFCE;
+}
+.excel18 {
+padding-top:1px;
+padding-right:1px;
+padding-left:1px;
+color:#9C0006;
+font-size:11.0pt;
+font-weight:400;
+font-style:normal;
+text-decoration:none;
+font-family:Calibri, sans-serif;
+text-align:center;
+vertical-align:bottom;
+border:.5pt solid #7F7F7F;
+white-space:nowrap;
+background:#FFC7CE;
+}
+.excel5 {
+padding-top:1px;
+padding-right:1px;
+padding-left:1px;
+color:black;
+font-size:11.0pt;
+font-weight:400;
+font-style:normal;
+text-decoration:none;
+font-family:Calibri, sans-serif;
+text-align:general;
+vertical-align:bottom;
+border:none;
+white-space:nowrap;
+background:#FCE4D6;
+}
+.excel9 {
+padding-top:1px;
+padding-right:1px;
+padding-left:1px;
+color:black;
+font-size:11.0pt;
+font-weight:400;
+font-style:normal;
+text-decoration:none;
+font-family:"Open Sans", sans-serif;
+text-align:right;
+vertical-align:bottom;
+border:none;
+white-space:nowrap;
+background:#FCE4D6;
+}
+.excel17 {
+padding-top:1px;
+padding-right:1px;
+padding-left:1px;
+color:black;
+font-size:11.0pt;
+font-weight:400;
+font-style:normal;
+text-decoration:none;
+font-family:Calibri, sans-serif;
+text-align:center;
+vertical-align:bottom;
+border:.5pt solid windowtext;
+white-space:nowrap;
+background:#FCE4D6;
+}
+.excel6 {
+padding-top:1px;
+padding-right:1px;
+padding-left:1px;
+color:black;
+font-size:11.0pt;
+font-weight:400;
+font-style:normal;
+text-decoration:none;
+font-family:Calibri, sans-serif;
+text-align:general;
+vertical-align:bottom;
+border:none;
+white-space:nowrap;
+background:#D9E1F2;
+}
+.excel10 {
+padding-top:1px;
+padding-right:1px;
+padding-left:1px;
+color:black;
+font-size:11.0pt;
+font-weight:400;
+font-style:normal;
+text-decoration:none;
+font-family:"Open Sans", sans-serif;
+text-align:right;
+vertical-align:bottom;
+border:none;
+white-space:nowrap;
+background:#D9E1F2;
+}
+.excel14 {
+padding-top:1px;
+padding-right:1px;
+padding-left:1px;
+color:black;
+font-size:11.0pt;
+font-weight:400;
+font-style:normal;
+text-decoration:none;
+font-family:Calibri, sans-serif;
+text-align:center;
+vertical-align:bottom;
+border:none;
+white-space:nowrap;
+border-top:none;
+border-right:none;
+border-bottom:.5pt solid windowtext;
+border-left:none;
+background:#D9E1F2;
+}
+.excel11 {
+padding-top:1px;
+padding-right:1px;
+padding-left:1px;
+color:black;
+font-size:11.0pt;
+font-weight:400;
+font-style:normal;
+text-decoration:none;
+font-family:"Open Sans", sans-serif;
+text-align:general;
+vertical-align:bottom;
+border:none;
+white-space:nowrap;
+background:#D9E1F2;
+}
+.excel7 {
+padding-top:1px;
+padding-right:1px;
+padding-left:1px;
+color:black;
+font-size:11.0pt;
+font-weight:400;
+font-style:normal;
+text-decoration:none;
+font-family:Calibri, sans-serif;
+text-align:general;
+vertical-align:bottom;
+border:none;
+white-space:nowrap;
+background:#FFF2CC;
+}
+.excel12 {
+padding-top:1px;
+padding-right:1px;
+padding-left:1px;
+color:black;
+font-size:11.0pt;
+font-weight:400;
+font-style:normal;
+text-decoration:none;
+font-family:"Open Sans", sans-serif;
+text-align:right;
+vertical-align:bottom;
+border:none;
+white-space:nowrap;
+background:#FFF2CC;
+}
+.excel15 {
+padding-top:1px;
+padding-right:1px;
+padding-left:1px;
+color:black;
+font-size:11.0pt;
+font-weight:400;
+font-style:normal;
+text-decoration:none;
+font-family:Calibri, sans-serif;
+text-align:center;
+vertical-align:bottom;
+border:none;
+white-space:nowrap;
+border-top:none;
+border-right:none;
+border-bottom:.5pt solid windowtext;
+border-left:none;
+background:#FFF2CC;
+}
+.excel13 {
+padding-top:1px;
+padding-right:1px;
+padding-left:1px;
+color:black;
+font-size:11.0pt;
+font-weight:400;
+font-style:normal;
+text-decoration:none;
+font-family:"Open Sans", sans-serif;
+text-align:general;
+vertical-align:bottom;
+border:none;
+white-space:nowrap;
+background:#FFF2CC;
+}
+.excel3 {
+padding-top:1px;
+padding-right:1px;
+padding-left:1px;
+color:#9C0006;
+font-size:11.0pt;
+font-weight:400;
+font-style:normal;
+text-decoration:none;
+font-family:Calibri, sans-serif;
+text-align:general;
+vertical-align:bottom;
+border:.5pt solid #7F7F7F;
+white-space:nowrap;
+background:#FFC7CE;
+}
+.excel2 {
+padding-top:1px;
+padding-right:1px;
+padding-left:1px;
+color:#006100;
+font-size:11.0pt;
+font-weight:400;
+font-style:normal;
+text-decoration:none;
+font-family:Calibri, sans-serif;
+text-align:general;
+vertical-align:bottom;
+border:.5pt solid #7F7F7F;
+white-space:nowrap;
+background:#C6EFCE;
+}
